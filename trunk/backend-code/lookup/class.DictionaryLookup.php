@@ -109,7 +109,7 @@
             $this->no_results = true;
           }
         }
-        if($this->caller_type = "twitter") {
+        if($this->caller_type == "twitter") {
           $this->format_output_for_twitter();
         }
         
