@@ -1,0 +1,1 @@
+Twitlookup is a handy, useful and friendly robot for twitter. Twitlookup helps users to quickly lookup information without having to leave twitter. At present, twitlookup supports weather lookups, dictionary definitions, acronym lookups and hashtags lookups.
